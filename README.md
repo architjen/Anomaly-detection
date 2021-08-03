@@ -1,5 +1,5 @@
 # Anomaly-detection
-Implemented list of techniques for anomaly detection on AIRBUS data. Please follow the report (pdf file) for more clairty  
+Implemented list of techniques for anomaly detection on AIRBUS data. Please follow the report (pdf file) for more info    
 
 ### Traditional method:
 Isolation forest  
